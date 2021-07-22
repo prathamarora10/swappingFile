@@ -1,0 +1,2 @@
+Hello, I am text_file 2.
+Can you read me, Please.
